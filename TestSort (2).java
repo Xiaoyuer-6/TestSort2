@@ -2,13 +2,7 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Stack;
 
-/**
- * Created with IntelliJ IDEA.
- * Description:
- * User: GaoBo
- * Date: 2021-01-31
- * Time: 12:17
- */
+
 public class TestSort {
 
     /**
